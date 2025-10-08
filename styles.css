@@ -48,6 +48,9 @@ button:active {
 
 input[type="text"] {
     background: linear-gradient(to bottom, #d8d8d8 0%, #f8fcf8 10%);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100% 20px;
     border: 1px solid #b0b8b0;
     border-radius: 4px;
     color: #000;
@@ -59,7 +62,7 @@ input[type="text"] {
 textarea {
     background: linear-gradient(to bottom, #d8d8d8 0%, #f8fcf8 10%);
     background-repeat: no-repeat;
-    background-position: bottom;
+    background-position: top;
     background-size: 100% 20px;
     border: 1px solid #b0b8b0;
     border-radius: 4px;
