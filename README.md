@@ -6,7 +6,7 @@ When using please credit me :D
 Pros of using this:
 - Styles were accurately created gradient segment-by-segment using real Bender 9-slice images from `framework-res.apk`
 - Examples:
-  1. ![Button](images/button.png)
-  2. ![Textbox](images/textbox.png)
-  3. ![Checkbox](images/checkbox.png)
+  1. ![Button](images/button_background_normal.9.png)
+  2. ![Textbox](images/editbox_background_focus_yellow.9.png)
+  3. ![Checkbox](images/checkbox_on_background.png)
 - Aesthetically pleasing
